@@ -3,10 +3,10 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	color: #000000;
+	color: #bdd711;
 }
 a {
-	color: #3a434e;
+	color: #d75f19;
 }
 .bg-primary {
 	background-color: #ffffff !important;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-position: 50% 50%;
 }
 .testimonial-bg {
-	background: #c1322a url(../img/testimonial-bg.png) repeat center top;
+	background: #c12a91 url(../img/testimonial-bg.png) repeat center top;
 }
 .service-bg {
 	background: linear-gradient(45deg, white, rgb(218 236 255 / 50%));
@@ -163,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 25px;
 }
 .info-text {
-	border-left: 1px solid rgba(255,255,255,0.1);
+	border-left: 1px solid (255,255,255,);
 	padding: 15px;
 	color: #FFF;
 }
@@ -190,7 +190,7 @@ ul.social-list li a {
 	transition: all 0.3s ease;
 }
 ul.social-list li a:hover{
-	background-color: #999;
+	background-color: #999999;
 }
 ul.social-list li a i {
 	padding-left: 12px;
