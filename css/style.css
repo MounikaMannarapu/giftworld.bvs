@@ -340,8 +340,8 @@ label {
 	transform: scale(1.1);
 }
 .pest-card img {
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 }
 .pest-card-text{
 	padding: 10px 0;
